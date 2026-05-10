@@ -1,0 +1,49 @@
+[LICH_SU_KHOA]
+Nguồn tham khảo:
+- https://fit.hcmute.edu.vn/
+- https://fit.hcmute.edu.vn/Default.aspx?ArticleId=bafd29bd-264e-4a5d-a92f-afe11c777e95
+Nội dung:
+Khoa Công nghệ Thông tin thuộc Trường Đại học Sư phạm Kỹ thuật TP.HCM. Website khoa có các mục giới thiệu về Khoa Công nghệ Thông tin, tầm nhìn, sứ mạng, chức năng, nhiệm vụ, tổ chức nhân sự và triết lý giáo dục. Đây là nhóm dữ liệu dùng để trả lời các câu hỏi về lịch sử, vai trò và định hướng phát triển của khoa.
+
+[NGANH_CHUYEN_NGANH]
+Nguồn tham khảo:
+- https://fit.hcmute.edu.vn/
+Nội dung:
+Website khoa có nhóm thông tin đào tạo đại học và sau đại học. Ở bậc đại học, các nội dung chính liên quan đến ngành Công nghệ thông tin, ngành Kỹ thuật dữ liệu và ngành An toàn thông tin. Mỗi ngành có các trang về đặc điểm chương trình đào tạo và mô tả môn học. Ở bậc sau đại học, website có thông tin về Thạc sĩ Khoa học máy tính, Tiến sĩ Khoa học máy tính và quy trình ra đề tài hệ cao học.
+
+[GIANG_VIEN_NGHIEN_CUU]
+Nguồn tham khảo:
+- https://fit.hcmute.edu.vn/
+Nội dung:
+Website khoa có nhóm thông tin về các bộ môn gồm Công nghệ phần mềm, Hệ thống thông tin, Mạng và An ninh mạng, Trí tuệ nhân tạo. Mỗi bộ môn có các mục giới thiệu bộ môn, đội ngũ giảng viên và phòng thí nghiệm hoặc thực tập. Ngoài ra, mục nghiên cứu có các nội dung về nghiên cứu khoa học giảng viên, nghiên cứu khoa học sinh viên, danh mục bài báo khoa học và các nhóm nghiên cứu.
+
+[TUYEN_SINH]
+Nguồn tham khảo:
+- https://fit.hcmute.edu.vn/
+Nội dung:
+Website khoa có mục tuyển sinh gồm tuyển sinh đại học, điểm chuẩn đại học và sau đại học. Nhóm dữ liệu này phục vụ các câu hỏi liên quan đến ngành tuyển sinh, điểm chuẩn, xét tuyển, nhập học, chương trình sau đại học, thạc sĩ và tiến sĩ. Khi dùng cho hệ thống RAG, câu trả lời cần trích lại từ các trang tuyển sinh thật trong corpus để tránh suy diễn.
+
+[SU_KIEN_THONG_BAO]
+Nguồn tham khảo:
+- https://fit.hcmute.edu.vn/
+Nội dung:
+Website khoa có nhiều thông báo và sự kiện như hoạt động nổi bật, việc làm doanh nghiệp, bảng tin Đoàn - Hội, cuộc thi học thuật, hội thảo và các thông báo liên quan sinh viên. Một số nội dung trên trang chủ có ngày đăng và đường dẫn bài viết chi tiết. Nhóm dữ liệu này dùng để trả lời các câu hỏi về sự kiện, hoạt động, thông báo mới và hoạt động nổi bật của Khoa Công nghệ Thông tin.
+
+[FAQ]
+Nguồn tham khảo:
+- Tổng hợp thủ công từ cấu trúc website Khoa Công nghệ Thông tin.
+Nội dung:
+Hỏi: Website Khoa CNTT có những nhóm thông tin chính nào?
+Đáp: Website có các nhóm thông tin chính gồm giới thiệu khoa, bộ môn, tuyển sinh, đào tạo, nghiên cứu, đối ngoại, sinh viên, cựu sinh viên và hoạt động.
+
+Hỏi: Muốn tìm thông tin chương trình đào tạo thì xem mục nào?
+Đáp: Người dùng có thể xem mục Đào tạo, trong đó có thông tin đại học, sau đại học, đặc điểm chương trình đào tạo và mô tả môn học.
+
+Hỏi: Muốn tìm thông tin giảng viên và bộ môn thì xem mục nào?
+Đáp: Người dùng có thể xem mục Bộ môn, trong đó có các bộ môn và các trang đội ngũ giảng viên.
+
+Hỏi: Muốn tìm thông tin tuyển sinh thì xem mục nào?
+Đáp: Người dùng có thể xem mục Tuyển sinh, gồm đại học, điểm chuẩn đại học và sau đại học.
+
+Hỏi: Muốn tìm thông tin nghiên cứu thì xem mục nào?
+Đáp: Người dùng có thể xem mục Nghiên cứu, gồm nghiên cứu khoa học giảng viên, nghiên cứu khoa học sinh viên, danh mục bài báo khoa học và các nhóm nghiên cứu.

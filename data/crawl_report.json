@@ -1,0 +1,17 @@
+{
+  "total_pages": 120,
+  "success_pages": 118,
+  "error_pages": 2,
+  "errors": [
+    {
+      "url": "http://fit.hcmute.edu.vn/Default.aspx?ModuleId=2d906ccc-876a-4ed0-a433-594308b0f87c",
+      "status_code": 404,
+      "error": null
+    },
+    {
+      "url": "https://fit.hcmute.edu.vn/Portlets/MenuRad/",
+      "status_code": 403,
+      "error": null
+    }
+  ]
+}

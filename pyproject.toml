@@ -1,0 +1,23 @@
+[project]
+name = "assignment2"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "pandas>=3.0.2",
+    "Flask>=3.0.0",
+    "Flask-Cors>=4.0.0",
+    "python-dotenv>=1.0.0",
+    "sentence-transformers>=2.2.0",
+    "chromadb>=0.4.0",
+    "accelerate>=1.13.0",
+    "openai>=2.36.0",
+    "huggingface-hub[cli]>=1.14.0",
+    "sentencepiece>=0.2.1",
+    "transformers[sentencepiece]>=5.8.0",
+    "tiktoken>=0.12.0",
+    "bitsandbytes>=0.49.2",
+    "tokenizers>=0.22.2",
+    "gradio>=6.14.0",
+]

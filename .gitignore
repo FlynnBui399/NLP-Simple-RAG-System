@@ -1,0 +1,33 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+.env
+
+# Data, vector store, and model files (private/large)
+models/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# System files
+Thumbs.db
+.DS_Store
+
+# Token/API key files
+.env.*
+*.token
+
+# Log and cache files
+*.log
+.cache/
+ 
+# File 
+ke-hoach-hien-tai-assignment2.pdf
+rag_pipeline_prompt.md

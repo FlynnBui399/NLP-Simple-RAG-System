@@ -1,0 +1,14 @@
+langchain
+chromadb
+sentence-transformers
+transformers[sentencepiece]
+sentencepiece>=0.2.1
+tiktoken>=0.12.0
+tokenizers>=0.22.2
+torch
+gradio
+faiss-cpu
+openai
+python-dotenv
+bitsandbytes
+accelerate

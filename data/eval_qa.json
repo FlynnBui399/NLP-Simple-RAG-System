@@ -1,0 +1,322 @@
+[
+  {
+    "id": "qa_001",
+    "topic": "lich_su",
+    "question": "Khoa Công nghệ Thông tin kỷ niệm cột mốc 25 năm thành lập vào thời điểm nào?",
+    "answer": "Năm 2026 đánh dấu cột mốc kỷ niệm 25 năm thành lập Khoa Công nghệ Thông tin.",
+    "source_url": "https://fit.hcmute.edu.vn/?ArticleId=da2bef0a-733a-4ff8-9d00-d1483b5110ae",
+    "evidence": "2026 đánh dấu một cột mốc đặc biệt – kỷ niệm 25 năm thành lập Khoa Công nghệ Thông tin."
+  },
+  {
+    "id": "qa_002",
+    "topic": "lich_su",
+    "question": "Khoa Công nghệ Thông tin được thành lập từ nền tảng ban đầu nào?",
+    "answer": "Khoa Công nghệ Thông tin được thành lập từ năm 2001 trên cơ sở phát triển từ trung tâm Tin học.",
+    "source_url": "https://fit.hcmute.edu.vn/?ArticleId=da2bef0a-733a-4ff8-9d00-d1483b5110ae",
+    "evidence": "Được thành lập từ năm 2001 trên cơ sở phát triển từ trung tâm Tin học."
+  },
+  {
+    "id": "qa_003",
+    "topic": "lich_su",
+    "question": "Sau 25 năm phát triển, Khoa Công nghệ Thông tin được mô tả như thế nào?",
+    "answer": "Sau 25 năm xây dựng và trưởng thành, Khoa Công nghệ Thông tin không ngừng lớn mạnh cả về quy mô lẫn chất lượng đào tạo và nghiên cứu.",
+    "source_url": "https://fit.hcmute.edu.vn/?ArticleId=da2bef0a-733a-4ff8-9d00-d1483b5110ae",
+    "evidence": "Trải qua 25 năm xây dựng và trưởng thành, Khoa Công nghệ Thông tin không ngừng lớn mạnh cả về quy mô lẫn chất lượng đào tạo và nghiên cứu."
+  },
+  {
+    "id": "qa_004",
+    "topic": "lich_su",
+    "question": "Tầm nhìn của Khoa Công nghệ Thông tin là gì?",
+    "answer": "Khoa Công nghệ Thông tin hướng tới trở thành đơn vị đào tạo, nghiên cứu khoa học và đổi mới sáng tạo hàng đầu Việt Nam trong lĩnh vực Công nghệ Thông tin, từng bước vươn đến tầm khu vực và thế giới.",
+    "source_url": "https://fit.hcmute.edu.vn/Default.aspx?ArticleId=2c95115f-657e-46ea-9e67-5dfe411e1f9d",
+    "evidence": "Tầm nhìn: Khoa Công nghệ Thông tin, trường Đại học Sư phạm Kỹ thuật TP. HCM sẽ trở thành đơn vị đào tạo, nghiên cứu khoa học và đổi mới sáng tạo hàng đầu Việt Nam trong lĩnh vực Công nghệ Thông tin, từng bước vươn đến tầm khu vực và thế giới."
+  },
+  {
+    "id": "qa_005",
+    "topic": "lich_su",
+    "question": "Sứ mạng của Khoa Công nghệ Thông tin là gì?",
+    "answer": "Khoa Công nghệ Thông tin cung cấp nguồn nhân lực chất lượng cao, đáp ứng nhu cầu thị trường lao động, đồng thời thực hiện nghiên cứu khoa học và chuyển giao công nghệ về công nghệ thông tin và các lĩnh vực liên quan.",
+    "source_url": "https://fit.hcmute.edu.vn/Default.aspx?ArticleId=2c95115f-657e-46ea-9e67-5dfe411e1f9d",
+    "evidence": "Sứ mạng: Khoa Công nghệ Thông tin, trường Đại học Sư phạm Kỹ thuật TP. HCM là nơi cung cấp nguồn nhân lực chất lượng cao đáp ứng nhu cầu của thị trường lao động, thực hiện nghiên cứu khoa học và chuyển giao công nghệ về công nghệ thông tin và các lĩnh vực liên quan."
+  },
+  {
+    "id": "qa_006",
+    "topic": "lich_su",
+    "question": "Website Khoa CNTT có những mục giới thiệu nào về khoa?",
+    "answer": "Website khoa có các mục giới thiệu về Khoa Công nghệ Thông tin, tầm nhìn, sứ mạng, chức năng, nhiệm vụ, tổ chức nhân sự và triết lý giáo dục.",
+    "source_url": "manual_data.txt",
+    "evidence": "Website khoa có các mục giới thiệu về Khoa Công nghệ Thông tin, tầm nhìn, sứ mạng, chức năng, nhiệm vụ, tổ chức nhân sự và triết lý giáo dục."
+  },
+  {
+    "id": "qa_007",
+    "topic": "dao_tao",
+    "question": "Website Khoa CNTT có những ngành đào tạo đại học nào?",
+    "answer": "Ở bậc đại học, các nội dung chính liên quan đến ngành Công nghệ thông tin, ngành Kỹ thuật dữ liệu và ngành An toàn thông tin.",
+    "source_url": "manual_data.txt",
+    "evidence": "Ở bậc đại học, các nội dung chính liên quan đến ngành Công nghệ thông tin, ngành Kỹ thuật dữ liệu và ngành An toàn thông tin."
+  },
+  {
+    "id": "qa_008",
+    "topic": "dao_tao",
+    "question": "Ngành Công nghệ thông tin trên website có những trang thông tin đào tạo nào?",
+    "answer": "Ngành Công nghệ thông tin có các trang về đặc điểm chương trình đào tạo và mô tả môn học.",
+    "source_url": "manual_data.txt",
+    "evidence": "Mỗi ngành có các trang về đặc điểm chương trình đào tạo và mô tả môn học."
+  },
+  {
+    "id": "qa_009",
+    "topic": "dao_tao",
+    "question": "Ngành Kỹ thuật dữ liệu trên website có những trang thông tin đào tạo nào?",
+    "answer": "Ngành Kỹ thuật dữ liệu có các trang về đặc điểm chương trình đào tạo và mô tả môn học.",
+    "source_url": "manual_data.txt",
+    "evidence": "Mỗi ngành có các trang về đặc điểm chương trình đào tạo và mô tả môn học."
+  },
+  {
+    "id": "qa_010",
+    "topic": "dao_tao",
+    "question": "Ngành An toàn thông tin trên website có những trang thông tin đào tạo nào?",
+    "answer": "Ngành An toàn thông tin có các trang về đặc điểm chương trình đào tạo và mô tả môn học.",
+    "source_url": "manual_data.txt",
+    "evidence": "Mỗi ngành có các trang về đặc điểm chương trình đào tạo và mô tả môn học."
+  },
+  {
+    "id": "qa_011",
+    "topic": "dao_tao",
+    "question": "Website khoa có những chương trình sau đại học nào?",
+    "answer": "Ở bậc sau đại học, website có thông tin về Thạc sĩ Khoa học máy tính, Tiến sĩ Khoa học máy tính và quy trình ra đề tài hệ cao học.",
+    "source_url": "manual_data.txt",
+    "evidence": "Ở bậc sau đại học, website có thông tin về Thạc sĩ Khoa học máy tính, Tiến sĩ Khoa học máy tính và quy trình ra đề tài hệ cao học."
+  },
+  {
+    "id": "qa_012",
+    "topic": "dao_tao",
+    "question": "Mục đào tạo trên website khoa cung cấp những nhóm thông tin nào?",
+    "answer": "Website khoa có nhóm thông tin đào tạo đại học và sau đại học.",
+    "source_url": "manual_data.txt",
+    "evidence": "Website khoa có nhóm thông tin đào tạo đại học và sau đại học."
+  },
+  {
+    "id": "qa_013",
+    "topic": "giang_vien_nghien_cuu",
+    "question": "Website Khoa CNTT có những bộ môn chính nào?",
+    "answer": "Website khoa có nhóm thông tin về các bộ môn gồm Công nghệ phần mềm, Hệ thống thông tin, Mạng và An ninh mạng, Trí tuệ nhân tạo.",
+    "source_url": "manual_data.txt",
+    "evidence": "Website khoa có nhóm thông tin về các bộ môn gồm Công nghệ phần mềm, Hệ thống thông tin, Mạng và An ninh mạng, Trí tuệ nhân tạo."
+  },
+  {
+    "id": "qa_014",
+    "topic": "giang_vien_nghien_cuu",
+    "question": "Mỗi bộ môn trên website có những nhóm thông tin nào?",
+    "answer": "Mỗi bộ môn có các mục giới thiệu bộ môn, đội ngũ giảng viên và phòng thí nghiệm hoặc thực tập.",
+    "source_url": "manual_data.txt",
+    "evidence": "Mỗi bộ môn có các mục giới thiệu bộ môn, đội ngũ giảng viên và phòng thí nghiệm hoặc thực tập."
+  },
+  {
+    "id": "qa_015",
+    "topic": "giang_vien_nghien_cuu",
+    "question": "Bộ môn Mạng và An ninh mạng đảm nhiệm nhiệm vụ gì?",
+    "answer": "Bộ môn Mạng và An ninh mạng đảm nhiệm nhiệm vụ đào tạo, giảng dạy các môn học cơ sở ngành và chuyên ngành thuộc lĩnh vực Mạng máy tính và an ninh mạng cho các bậc và loại hình đào tạo hệ đại học của Khoa Công nghệ thông tin.",
+    "source_url": "https://fit.hcmute.edu.vn/Default.aspx?ArticleId=2b5caa1c-ac80-49b6-b2a2-23d115865a1d",
+    "evidence": "Nhiệm vụ môn Mạng - An Ninh mạng đảm nhiệm nhiệm vụ đào tạo, giảng dạy các môn học cơ sở ngành và chuyên ngành thuộc lĩnh vực Mạng máy tính và an ninh mạng cho các bậc và loại hình đào tạo hệ đại học của Khoa Công nghệ thông tin – Trường Đại học Sư phạm Kỹ Thuật Tp.HCM."
+  },
+  {
+    "id": "qa_016",
+    "topic": "giang_vien_nghien_cuu",
+    "question": "Ngoài giảng dạy, bộ môn Mạng và An ninh mạng còn có nhiệm vụ nào?",
+    "answer": "Bộ môn còn có nhiệm vụ nghiên cứu khoa học và chuyển giao công nghệ thuộc các lĩnh vực Mạng máy tính và an ninh mạng nói riêng và Công nghệ thông tin nói chung.",
+    "source_url": "https://fit.hcmute.edu.vn/Default.aspx?ArticleId=2b5caa1c-ac80-49b6-b2a2-23d115865a1d",
+    "evidence": "Cùng với nhiệm vụ giảng dạy, bộ môn còn có nhiệm vụ nghiên cứu khoa học và chuyển giao công nghệ thuộc các lĩnh vực Mạng máy tính và an ninh mạng nói riêng và Công nghệ thông tin nói chung."
+  },
+  {
+    "id": "qa_017",
+    "topic": "giang_vien_nghien_cuu",
+    "question": "Mục nghiên cứu trên website khoa gồm những nội dung nào?",
+    "answer": "Mục nghiên cứu có các nội dung về nghiên cứu khoa học giảng viên, nghiên cứu khoa học sinh viên, danh mục bài báo khoa học và các nhóm nghiên cứu.",
+    "source_url": "manual_data.txt",
+    "evidence": "Mục nghiên cứu có các nội dung về nghiên cứu khoa học giảng viên, nghiên cứu khoa học sinh viên, danh mục bài báo khoa học và các nhóm nghiên cứu."
+  },
+  {
+    "id": "qa_018",
+    "topic": "giang_vien_nghien_cuu",
+    "question": "Giảng viên thuộc bộ môn có tham gia hoạt động nghiên cứu nào?",
+    "answer": "Các giảng viên thuộc bộ môn hướng dẫn sinh viên nghiên cứu khoa học, tham gia các đề tài, chủ nhiệm đề tài cấp Cơ sở, học tập và nâng cao trình độ sau đại học.",
+    "source_url": "https://fit.hcmute.edu.vn/Default.aspx?ArticleId=2b5caa1c-ac80-49b6-b2a2-23d115865a1d",
+    "evidence": "Ngoài ra, các giảng viên thuộc bộ môn hướng dẫn sinh viên nghiên cứu khoa học, các giảng viên tham gia các đề tài, chủ nhiệm đề tài cấp Cơ sở, học tập và nâng cao trình độ sau đại học."
+  },
+  {
+    "id": "qa_019",
+    "topic": "tuyen_sinh",
+    "question": "Website Khoa CNTT có những mục nào trong phần tuyển sinh?",
+    "answer": "Website khoa có mục tuyển sinh gồm tuyển sinh đại học, điểm chuẩn đại học và sau đại học.",
+    "source_url": "manual_data.txt",
+    "evidence": "Website khoa có mục tuyển sinh gồm tuyển sinh đại học, điểm chuẩn đại học và sau đại học."
+  },
+  {
+    "id": "qa_020",
+    "topic": "tuyen_sinh",
+    "question": "Thông tin tuyển sinh trên website phục vụ những loại câu hỏi nào?",
+    "answer": "Nhóm dữ liệu tuyển sinh phục vụ các câu hỏi liên quan đến ngành tuyển sinh, điểm chuẩn, xét tuyển, nhập học, chương trình sau đại học, thạc sĩ và tiến sĩ.",
+    "source_url": "manual_data.txt",
+    "evidence": "Nhóm dữ liệu này phục vụ các câu hỏi liên quan đến ngành tuyển sinh, điểm chuẩn, xét tuyển, nhập học, chương trình sau đại học, thạc sĩ và tiến sĩ."
+  },
+  {
+    "id": "qa_021",
+    "topic": "tuyen_sinh",
+    "question": "Người dùng có thể tìm điểm chuẩn đại học ở đâu trên website khoa?",
+    "answer": "Người dùng có thể xem mục Tuyển sinh, trong đó có phần điểm chuẩn đại học.",
+    "source_url": "manual_data.txt",
+    "evidence": "Website khoa có mục tuyển sinh gồm tuyển sinh đại học, điểm chuẩn đại học và sau đại học."
+  },
+  {
+    "id": "qa_022",
+    "topic": "tuyen_sinh",
+    "question": "Người dùng có thể tìm thông tin sau đại học ở đâu?",
+    "answer": "Người dùng có thể xem mục Tuyển sinh hoặc nhóm thông tin sau đại học trên website khoa.",
+    "source_url": "manual_data.txt",
+    "evidence": "Website khoa có mục tuyển sinh gồm tuyển sinh đại học, điểm chuẩn đại học và sau đại học."
+  },
+  {
+    "id": "qa_023",
+    "topic": "tuyen_sinh",
+    "question": "Khi hệ thống RAG trả lời câu hỏi tuyển sinh, cần lưu ý điều gì?",
+    "answer": "Câu trả lời cần trích lại từ các trang tuyển sinh thật trong corpus để tránh suy diễn.",
+    "source_url": "manual_data.txt",
+    "evidence": "Khi dùng cho hệ thống RAG, câu trả lời cần trích lại từ các trang tuyển sinh thật trong corpus để tránh suy diễn."
+  },
+  {
+    "id": "qa_024",
+    "topic": "tuyen_sinh",
+    "question": "FAQ của website gợi ý xem thông tin tuyển sinh ở mục nào?",
+    "answer": "Người dùng có thể xem mục Tuyển sinh, gồm đại học, điểm chuẩn đại học và sau đại học.",
+    "source_url": "manual_data.txt",
+    "evidence": "Hỏi: Muốn tìm thông tin tuyển sinh thì xem mục nào? Đáp: Người dùng có thể xem mục Tuyển sinh, gồm đại học, điểm chuẩn đại học và sau đại học."
+  },
+  {
+    "id": "qa_025",
+    "topic": "su_kien",
+    "question": "Website Khoa CNTT có những nhóm sự kiện hoặc thông báo nào?",
+    "answer": "Website khoa có nhiều thông báo và sự kiện như hoạt động nổi bật, việc làm doanh nghiệp, bảng tin Đoàn - Hội, cuộc thi học thuật, hội thảo và các thông báo liên quan sinh viên.",
+    "source_url": "manual_data.txt",
+    "evidence": "Website khoa có nhiều thông báo và sự kiện như hoạt động nổi bật, việc làm doanh nghiệp, bảng tin Đoàn - Hội, cuộc thi học thuật, hội thảo và các thông báo liên quan sinh viên."
+  },
+  {
+    "id": "qa_026",
+    "topic": "su_kien",
+    "question": "Sự kiện nào liên quan đến kỷ niệm 25 năm thành lập khoa?",
+    "answer": "Website có nội dung về kỷ niệm 25 năm thành lập Khoa Công nghệ Thông tin.",
+    "source_url": "https://fit.hcmute.edu.vn/?ArticleId=da2bef0a-733a-4ff8-9d00-d1483b5110ae",
+    "evidence": "KỶ NIỆM 25 NĂM THÀNH LẬP KHOA CÔNG NGHỆ THÔNG TIN."
+  },
+  {
+    "id": "qa_027",
+    "topic": "su_kien",
+    "question": "Trang chủ website khoa có thể dùng để trả lời câu hỏi về loại thông tin sự kiện nào?",
+    "answer": "Trang chủ có thể dùng để trả lời các câu hỏi về sự kiện, hoạt động, thông báo mới và hoạt động nổi bật của Khoa Công nghệ Thông tin.",
+    "source_url": "manual_data.txt",
+    "evidence": "Nhóm dữ liệu này dùng để trả lời các câu hỏi về sự kiện, hoạt động, thông báo mới và hoạt động nổi bật của Khoa Công nghệ Thông tin."
+  },
+  {
+    "id": "qa_028",
+    "topic": "su_kien",
+    "question": "Các bài viết sự kiện hoặc thông báo trên website thường có thông tin gì đi kèm?",
+    "answer": "Một số nội dung trên trang chủ có ngày đăng và đường dẫn bài viết chi tiết.",
+    "source_url": "manual_data.txt",
+    "evidence": "Một số nội dung trên trang chủ có ngày đăng và đường dẫn bài viết chi tiết."
+  },
+  {
+    "id": "qa_029",
+    "topic": "su_kien",
+    "question": "Website có nhắc đến hoạt động hoặc cuộc thi học thuật nào?",
+    "answer": "Website có các nội dung liên quan đến cuộc thi học thuật, ICPC, workshop, talkshow và các hoạt động nổi bật.",
+    "source_url": "manual_data.txt",
+    "evidence": "Website khoa có nhiều thông báo và sự kiện như hoạt động nổi bật, việc làm doanh nghiệp, bảng tin Đoàn - Hội, cuộc thi học thuật, hội thảo và các thông báo liên quan sinh viên."
+  },
+  {
+    "id": "qa_030",
+    "topic": "su_kien",
+    "question": "FAQ của dữ liệu thủ công cho biết website Khoa CNTT có những nhóm thông tin chính nào?",
+    "answer": "Website có các nhóm thông tin chính gồm giới thiệu khoa, bộ môn, tuyển sinh, đào tạo, nghiên cứu, đối ngoại, sinh viên, cựu sinh viên và hoạt động.",
+    "source_url": "manual_data.txt",
+    "evidence": "Website có các nhóm thông tin chính gồm giới thiệu khoa, bộ môn, tuyển sinh, đào tạo, nghiên cứu, đối ngoại, sinh viên, cựu sinh viên và hoạt động."
+  },
+  {
+    "id": "qa_031",
+    "topic": "lich_su",
+    "question": "Triết lý giáo dục được nêu trên website là gì?",
+    "answer": "Triết lý giáo dục được nêu là nhân bản, sáng tạo, hội nhập.",
+    "source_url": "manual_data.txt",
+    "evidence": "Website khoa có các mục giới thiệu về Khoa Công nghệ Thông tin, tầm nhìn, sứ mạng, chức năng, nhiệm vụ, tổ chức nhân sự và triết lý giáo dục."
+  },
+  {
+    "id": "qa_032",
+    "topic": "lich_su",
+    "question": "Nhóm dữ liệu lịch sử khoa dùng để trả lời những loại câu hỏi nào?",
+    "answer": "Nhóm dữ liệu lịch sử dùng để trả lời các câu hỏi về lịch sử, vai trò và định hướng phát triển của khoa.",
+    "source_url": "manual_data.txt",
+    "evidence": "Đây là nhóm dữ liệu dùng để trả lời các câu hỏi về lịch sử, vai trò và định hướng phát triển của khoa."
+  },
+  {
+    "id": "qa_033",
+    "topic": "dao_tao",
+    "question": "Người dùng muốn tìm thông tin chương trình đào tạo thì nên xem mục nào?",
+    "answer": "Người dùng có thể xem mục Đào tạo, trong đó có thông tin đại học, sau đại học, đặc điểm chương trình đào tạo và mô tả môn học.",
+    "source_url": "manual_data.txt",
+    "evidence": "Hỏi: Muốn tìm thông tin chương trình đào tạo thì xem mục nào? Đáp: Người dùng có thể xem mục Đào tạo, trong đó có thông tin đại học, sau đại học, đặc điểm chương trình đào tạo và mô tả môn học."
+  },
+  {
+    "id": "qa_034",
+    "topic": "dao_tao",
+    "question": "Website khoa có thông tin đào tạo ở những bậc học nào?",
+    "answer": "Website khoa có nhóm thông tin đào tạo đại học và sau đại học.",
+    "source_url": "manual_data.txt",
+    "evidence": "Website khoa có nhóm thông tin đào tạo đại học và sau đại học."
+  },
+  {
+    "id": "qa_035",
+    "topic": "giang_vien_nghien_cuu",
+    "question": "Người dùng muốn tìm thông tin giảng viên và bộ môn thì xem mục nào?",
+    "answer": "Người dùng có thể xem mục Bộ môn, trong đó có các bộ môn và các trang đội ngũ giảng viên.",
+    "source_url": "manual_data.txt",
+    "evidence": "Hỏi: Muốn tìm thông tin giảng viên và bộ môn thì xem mục nào? Đáp: Người dùng có thể xem mục Bộ môn, trong đó có các bộ môn và các trang đội ngũ giảng viên."
+  },
+  {
+    "id": "qa_036",
+    "topic": "giang_vien_nghien_cuu",
+    "question": "Người dùng muốn tìm thông tin nghiên cứu thì xem mục nào?",
+    "answer": "Người dùng có thể xem mục Nghiên cứu, gồm nghiên cứu khoa học giảng viên, nghiên cứu khoa học sinh viên, danh mục bài báo khoa học và các nhóm nghiên cứu.",
+    "source_url": "manual_data.txt",
+    "evidence": "Hỏi: Muốn tìm thông tin nghiên cứu thì xem mục nào? Đáp: Người dùng có thể xem mục Nghiên cứu, gồm nghiên cứu khoa học giảng viên, nghiên cứu khoa học sinh viên, danh mục bài báo khoa học và các nhóm nghiên cứu."
+  },
+  {
+    "id": "qa_037",
+    "topic": "tuyen_sinh",
+    "question": "Mục tuyển sinh trên website khoa gồm những nhóm thông tin nào?",
+    "answer": "Mục tuyển sinh gồm tuyển sinh đại học, điểm chuẩn đại học và sau đại học.",
+    "source_url": "manual_data.txt",
+    "evidence": "Website khoa có mục tuyển sinh gồm tuyển sinh đại học, điểm chuẩn đại học và sau đại học."
+  },
+  {
+    "id": "qa_038",
+    "topic": "tuyen_sinh",
+    "question": "Thông tin tuyển sinh có liên quan đến những nội dung nào?",
+    "answer": "Thông tin tuyển sinh liên quan đến ngành tuyển sinh, điểm chuẩn, xét tuyển, nhập học, chương trình sau đại học, thạc sĩ và tiến sĩ.",
+    "source_url": "manual_data.txt",
+    "evidence": "Nhóm dữ liệu này phục vụ các câu hỏi liên quan đến ngành tuyển sinh, điểm chuẩn, xét tuyển, nhập học, chương trình sau đại học, thạc sĩ và tiến sĩ."
+  },
+  {
+    "id": "qa_039",
+    "topic": "su_kien",
+    "question": "Website khoa có những loại hoạt động hoặc thông báo nào liên quan đến sinh viên?",
+    "answer": "Website khoa có các thông báo và sự kiện như hoạt động nổi bật, việc làm doanh nghiệp, bảng tin Đoàn - Hội, cuộc thi học thuật, hội thảo và các thông báo liên quan sinh viên.",
+    "source_url": "manual_data.txt",
+    "evidence": "Website khoa có nhiều thông báo và sự kiện như hoạt động nổi bật, việc làm doanh nghiệp, bảng tin Đoàn - Hội, cuộc thi học thuật, hội thảo và các thông báo liên quan sinh viên."
+  },
+  {
+    "id": "qa_040",
+    "topic": "su_kien",
+    "question": "Nhóm dữ liệu sự kiện dùng để trả lời những loại câu hỏi nào?",
+    "answer": "Nhóm dữ liệu sự kiện dùng để trả lời các câu hỏi về sự kiện, hoạt động, thông báo mới và hoạt động nổi bật của Khoa Công nghệ Thông tin.",
+    "source_url": "manual_data.txt",
+    "evidence": "Nhóm dữ liệu này dùng để trả lời các câu hỏi về sự kiện, hoạt động, thông báo mới và hoạt động nổi bật của Khoa Công nghệ Thông tin."
+  }
+]
